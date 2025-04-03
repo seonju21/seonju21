@@ -1,4 +1,4 @@
-## Hi there 👋
+## KB 부트캠프 study 👋
 
 <!--
 **seonju21/seonju21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
